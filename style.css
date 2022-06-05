@@ -1,0 +1,23 @@
+.info-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info-tabcontent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: flex;
+}
+
+img {
+    width: 500px;
+}
